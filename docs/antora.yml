@@ -1,0 +1,5 @@
+name: quarkus-zenoh
+title: Zenoh
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
